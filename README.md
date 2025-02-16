@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lebogang!<a href="https://www.linkedin.com/in/joshmadakor/">Cloud Engineering Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Lebogang!<a href="https://www.linkedin.com/in/joshmadakor/">Cloud Engineering Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">Web Designer</a></h1>
 
 <h2>👨‍💻 Cloud Computing Projects:</h2>
 
